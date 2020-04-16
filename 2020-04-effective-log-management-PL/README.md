@@ -6,7 +6,7 @@
 
 Rafał Bajek / Cometari
 
-# Co-host
+## Co-host
 
 [Jakub Hajek / Cometari](https://github.com/jakubhajek)
 
@@ -16,7 +16,7 @@ Rafał Bajek / Cometari
 
 ### Video 
 
-[Effective Log Management with Elasticsearch (PL)]()
+[Effective Log Management with Elasticsearch (PL)](https://youtu.be/UWQUpNL6NH0)
 
 ### Source code
 
