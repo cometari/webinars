@@ -16,7 +16,7 @@ Rafał Bajek / Cometari
 
 ### Video 
 
-[Effective Log Management with Elasticsearch (PL)](https://youtu.be/UWQUpNL6NH0)
+[Effective Log Management with Elasticsearch (PL)](https://youtu.be/wBwI5mxErQM)
 
 ### Source code
 
